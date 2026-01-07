@@ -7,5 +7,6 @@ console.log("Orange");
 console.log("Grapes");
 console.log("Pineapple");
 console.log("Watermelon");
+console.log("End of list");
 
 
