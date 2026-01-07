@@ -5,5 +5,6 @@ console.log("Mango");
 console.log("Potato"); // BUG: should be Tomato
 console.log("Orange");
 console.log("Grapes");
+console.log("Pineapple");
 
 
