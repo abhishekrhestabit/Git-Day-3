@@ -6,7 +6,10 @@ Two developers modified the same line in `fruits.js` in parallel using separate 
 ## Evidence
 
 ###  Diverging commit history before merge
+- ![SS1](images/ss1-1.png)
+- ![SS1](images/ss1-2.png)
 - ![SS1](images/ss1.png)
+
 
 ### Git reporting a merge conflict
 - ![SS2](images/ss2_1.png)
