@@ -129,4 +129,52 @@ error: could not revert eafe23c... Commit 5: add Tomato(buggy)
 [?2004l[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit revert --continue[27m
 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit revert --continue
 [A
-[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;32H(B[0;7m[ Reading... ](B[m[22;31H(B[0;7m[ Read 19 lines ](B[m[H(B[0;7m  GNU nano 7.2   /home/abhishekrai/Git-Day-3/.git/COMMIT_EDITMSG             [1;76H(B[m[23d(B[0;7m^G(B[m Help[23;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[23;61H(B[0;7m^T(B[m Execute[24d(B[0;7m^X(B[m Exit[24;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2dRevert "Commit 5: add Tomato(buggy)"[4dThis reverts commit eafe23c898f0cb07c10b5f70a7a20bd6aa72b4ba.[6d[36m# Conflicts:[7d#[38;5;208m       [36mfruits.js[9d# Please enter the commit message for your changes. Lines starting[10d# with '#' will be ignored, and an empty message aborts the commit.[11d#[12d# On branch master[13d# You are currently reverting commit eafe23c.[14d#[15d# Changes to be committed:[16d#[38;5;208m       [36mmodified:   fruits.js[17d#[18d# Changes not stage
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;32H(B[0;7m[ Reading... ](B[m[22;31H(B[0;7m[ Read 19 lines ](B[m[H(B[0;7m  GNU nano 7.2   /home/abhishekrai/Git-Day-3/.git/COMMIT_EDITMSG             [1;76H(B[m[23d(B[0;7m^G(B[m Help[23;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[23;61H(B[0;7m^T(B[m Execute[24d(B[0;7m^X(B[m Exit[24;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2dRevert "Commit 5: add Tomato(buggy)"[4dThis reverts commit eafe23c898f0cb07c10b5f70a7a20bd6aa72b4ba.[6d[36m# Conflicts:[7d#[38;5;208m       [36mfruits.js[9d# Please enter the commit message for your changes. Lines starting[10d# with '#' will be ignored, and an empty message aborts the commit.[11d#[12d# On branch master[13d# You are currently reverting commit eafe23c.[14d#[15d# Changes to be committed:[16d#[38;5;208m       [36mmodified:   fruits.js[17d#[18d# Changes not staged for commit:[19d#[38;5;208m       [36mmodified:   bisect-session.txt[20d#[2d[39m(B[m[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15d[?25l[?12l[?25h[17d[?25l[?12l[?25h[18d[?25l[?12l[?25h[20d[?25l[?12l[?25h[21d[?25l[22d[K[?12l[?25h[A[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[23d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[K[master c8e3332] Revert "Commit 5: add Tomato(buggy)"
+ 1 file changed, 1 insertion(+)
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit status[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status
+[A
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   bisect-session.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit status[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status
+[A
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   bisect-session.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit add bisect-session.txt[27m
+[7mgit commit -m "Update git bisect session log"[27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit add bisect-session.txt
+git commit -m "Update git bisect session log"
+[A
+[?2004l[master 95e1827] Update git bisect session log
+ 1 file changed, 60 insertions(+), 1 deletion(-)
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit status[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status
+[A
+[?2004lOn branch master
+nothing to commit, working tree clean
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit status[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status
+[A
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   fruits.js[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mscript stash-session.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript stash-session.txt
+[A
+[?2004lScript started, output log file is 'stash-session.txt'.
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7
