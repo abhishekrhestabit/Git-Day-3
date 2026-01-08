@@ -8,6 +8,8 @@ console.log("Grapes");
 console.log("Pineapple");
 console.log("Watermelon");
 console.log("End of list");
+console.log("TEMP: debug line");
+
 
 
 
