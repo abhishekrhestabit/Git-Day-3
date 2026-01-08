@@ -1,0 +1,73 @@
+Script started on 2026-01-07 19:50:19+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="80" LINES="24"]
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit bisect start[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit bisect start
+[A
+[?2004lstatus: waiting for both good and bad commits
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit bisect bad[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit bisect bad
+[A
+[?2004lstatus: waiting for good commit(s), bad commit known
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ git be[K[K[K[K[K[Kgit bisect badstartpush origin mainti[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cit commit -m "Training exercises day 2"add .[Kpush origin mainadd .[Kcommit -m "Training exercises day 2"[20Pti push origin mainit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pbisect start[2Pbad[Kgit bisect badstartpush origin mainti[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cit commit -m "Training exercises day 2"add .[Kpush origin maincommit -m "Training exercises day 1"add .[Kpush origin maincommit -m "Training exercises day 1"add .[Kpush origin maincommit -m "Training exercises day 1"add .[Kpush origin main[2Pbranch -M[C[C[C[C[Ccommit -m "Training Exercisies Day 1"[15Pnfig --global --listuser.email "abhishekr.hestabit@gmail.com"[A]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname "Abhishek Rai"[K[A]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [C[C[C[C[C[C[2Pmmit -m "Training Exercisies Day 1"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K[1Padd .remote -vadd origin https://github.com/abhishekrhestabit/Hestabit-training.git[A[C[C[C[Cinit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatusls[Knano system-report.md[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit bisect good [K HEAD~8
+[?2004lBisecting: 3 revisions left to test after this (roughly 2 steps)
+[8ad47a2e79b0054c59ba3ccd79d835619ec281e1] Commit 6: print orange
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ NODE[K[K[K[Knode fruits.js
+[?2004lFruits list:
+Apple
+Banana
+Mango
+Potato
+Orange
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ git bisect bad
+[?2004lBisecting: 1 revision left to test after this (roughly 1 step)
+[cad98ed7fcf74c4869fe28d6007d57b132431c0b] Commit 4: print mango
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ nofr[Ke [K[K[Kde fruits.js
+[?2004lFruits list:
+Apple
+Banana
+Mango
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ git  bisect good
+[?2004lBisecting: 0 revisions left to test after this (roughly 0 steps)
+[eafe23c898f0cb07c10b5f70a7a20bd6aa72b4ba] Commit 5: add Tomato(buggy)
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ git  bisect good[2Pnode fruits.js
+[?2004lFruits list:
+Apple
+Banana
+Mango
+Potato
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ git bisect bad
+[?2004leafe23c898f0cb07c10b5f70a7a20bd6aa72b4ba is the first bad commit
+[33mcommit eafe23c898f0cb07c10b5f70a7a20bd6aa72b4ba[m
+Author: Abhishek Rai <abhishekr.hestabit@gmail.com>
+Date:   Wed Jan 7 19:38:29 2026 +0530
+
+    Commit 5: add Tomato(buggy)
+
+ fruits.js | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ git status [K
+[?2004l[31mHEAD detached at [meafe23c
+You are currently bisecting, started from branch 'master'.
+  (use "git bisect reset" to get back to the original branch)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mbisect-session.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit bisect reset[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit bisect reset
+[A
+[?2004lPrevious HEAD position was eafe23c Commit 5: add Tomato(buggy)
+Switched to branch 'master'
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit status[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status
+[A
+[?2004lOn branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mbisect-session.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@he
