@@ -70,4 +70,63 @@ Untracked files:
 	[31mbisect-session.txt[m
 
 nothing added to commit but untracked files present (use "git add" to track)
-[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@he
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [K]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit add bisect-session.txt[27m
+[7mgit commit -m "Add git bisect session log"[27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit add bisect-session.txt
+git commit -m "Add git bisect session log"
+[A
+[?2004l[master d774241] Add git bisect session log
+ 1 file changed, 73 insertions(+)
+ create mode 100644 bisect-session.txt
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit commit -am "Fix: correct vegetable f[27m[7mr[27m[7mom Tomato to Potato" [27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -am "Fix: correct vegetable from Tomato to Potato"
+[A
+[?2004l[master b94cd5b] Fix: correct vegetable from Tomato to Potato
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit log --oneline[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit log --oneline
+[A
+[?2004l[?1h=[33mb94cd5b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Fix: correct vegetable from Tomato to Potato[m
+[33md774241[m Add git bisect session log[m
+[33md10ea53[m Commit 10: end message[m
+[33mcad8003[m Commit 9: print watermelon[m
+[33m592a6df[m Commit 8: print pineapple[m
+[33m9af2033[m Commit 7: print grapes[m
+[33m8ad47a2[m Commit 6: print orange[m
+[33meafe23c[m Commit 5: add Tomato(buggy)[m
+[33mcad98ed[m Commit 4: print mango[m
+[33md19209f[m Commit 3: print banana[m
+[33mb4d83ff[m Commit 2: print apple[m
+[33meeb7183[m Commit 1: base fruits program[m
+[K[?1l>[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ git revert eafe23c
+[?2004lAuto-merging fruits.js
+CONFLICT (content): Merge conflict in fruits.js
+error: could not revert eafe23c... Commit 5: add Tomato(buggy)
+[33mhint: After resolving the conflicts, mark them with[m
+[33mhint: "git add/rm <pathspec>", then run[m
+[33mhint: "git revert --continue".[m
+[33mhint: You can instead skip this commit with "git revert --skip".[m
+[33mhint: To abort and get back to the state before "git revert",[m
+[33mhint: run "git revert --abort".[m
+[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit log --oneline --graph[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit log --oneline --graph
+[A
+[?2004l[?1h=* [33mb94cd5b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Fix: correct vegetable from Tomato to Potato[m
+* [33md774241[m Add git bisect session log[m
+* [33md10ea53[m Commit 10: end message[m
+* [33mcad8003[m Commit 9: print watermelon[m
+* [33m592a6df[m Commit 8: print pineapple[m
+* [33m9af2033[m Commit 7: print grapes[m
+* [33m8ad47a2[m Commit 6: print orange[m
+* [33meafe23c[m Commit 5: add Tomato(buggy)[m
+* [33mcad98ed[m Commit 4: print mango[m
+* [33md19209f[m Commit 3: print banana[m
+* [33mb4d83ff[m Commit 2: print apple[m
+* [33meeb7183[m Commit 1: base fruits program[m
+[K[?1l>[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit add fruits.js[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit add fruits.js
+[A
+[?2004l[?2004h]0;abhishekrai@hestabit-LP: ~/Git-Day-3[01;32mabhishekrai@hestabit-LP[00m:[01;34m~/Git-Day-3[00m$ [7mgit revert --continue[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit revert --continue
+[A
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;32H(B[0;7m[ Reading... ](B[m[22;31H(B[0;7m[ Read 19 lines ](B[m[H(B[0;7m  GNU nano 7.2   /home/abhishekrai/Git-Day-3/.git/COMMIT_EDITMSG             [1;76H(B[m[23d(B[0;7m^G(B[m Help[23;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[23;61H(B[0;7m^T(B[m Execute[24d(B[0;7m^X(B[m Exit[24;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2dRevert "Commit 5: add Tomato(buggy)"[4dThis reverts commit eafe23c898f0cb07c10b5f70a7a20bd6aa72b4ba.[6d[36m# Conflicts:[7d#[38;5;208m       [36mfruits.js[9d# Please enter the commit message for your changes. Lines starting[10d# with '#' will be ignored, and an empty message aborts the commit.[11d#[12d# On branch master[13d# You are currently reverting commit eafe23c.[14d#[15d# Changes to be committed:[16d#[38;5;208m       [36mmodified:   fruits.js[17d#[18d# Changes not stage
