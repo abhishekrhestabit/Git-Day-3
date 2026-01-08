@@ -1,5 +1,5 @@
 console.log("Fruits list:");
-console.log("Apple");
+console.log("Apple from repo A");
 console.log("Banana");
 console.log("Mango");
 console.log("Tomato"); // BUG: should be Tomato
